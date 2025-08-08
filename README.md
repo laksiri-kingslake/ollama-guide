@@ -12,7 +12,8 @@ ollama list
 ollama run deepseek-r1:8b 
 
 # to get llama
-
+ollama run llama3
+ollama pull llama3.2-vision
 
 # remove model
 ollama rm deepseek
